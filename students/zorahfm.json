@@ -1,0 +1,15 @@
+{
+  
+  "firstName": "Zorah",
+  "lastName": "Freeman-McIntyre",
+  "nickName": "Zor",
+  "privateName": false,
+  "picture": "images/zorahfm.jpg",
+  "privatePicture": false,
+  "email": "zorah.freeman.mcintyre@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "zorahfm",
+  "privateGithub": false,
+  "superpower" : "all cheese melts in my presence",
+  "academicinterests": "borges. everything can be learned from a few borges stories"
+}
